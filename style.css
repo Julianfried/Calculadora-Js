@@ -1,0 +1,31 @@
+form {
+    margin: 2rem 3rem;
+}
+
+body {
+    max-width: 500px;
+}
+
+.container {
+    padding: 4rem 0;
+}
+
+.container h3 {
+    text-shadow: 1px 2px 3px rgb(115, 123, 134);
+}
+
+#list-p {
+    margin: 2rem;
+}
+
+.btn-close {
+    float: right;
+}
+
+#total {
+    margin: 0 2rem;
+}
+
+#subtotal {
+    margin: 0 2rem;
+}
