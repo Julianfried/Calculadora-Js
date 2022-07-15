@@ -42,3 +42,4 @@ function totalValue() {
     let subtotal = acum / ArrayPeople.length;
     divSubtotal.textContent = "A pagar cada uno: $" + (subtotal ? subtotal : 0);
     div.textContent = "Total: $" + (acum ? acum : 0);
+    }
